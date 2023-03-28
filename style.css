@@ -1,0 +1,128 @@
+body
+{
+    background-color: rgb(72, 72, 72);
+}
+#container
+{
+    background-color: rgb(122, 121, 121);
+    height: 1000px;
+    width: 900px;
+    margin: auto;
+    border-radius: 20px;
+}
+.name
+{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    font-size: 30px;
+    width: 550px;
+    height: 150px;
+    padding-right: 30px;
+    float: right;
+    overflow-wrap: break-word;
+}
+.o_mnie
+{
+    clear: both;
+    font-size: 18px;
+    text-align: left;
+}
+.kon_um
+{
+    width: 300px;
+    height: 683px;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 3px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(137, 137, 137);
+    padding: 10px;
+    font-size: 15px;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+}
+img
+{
+    width: 30%; 
+    height: 27%;
+    padding: 10px;
+}
+.kt
+{
+    color: aqua;
+}
+hr
+{
+    border: 1px solid white;
+}
+.hr1
+{
+    border-style: dotted none none;
+    width: 20%;
+    border-width: 10px;
+    border-color: rgb(161, 161, 161);
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    color: rgb(193, 190, 190);
+}
+.content
+{   
+
+    height: 700px;
+    width: 550px;
+    float: left;
+    margin-top: 4px;
+    font-family: 'Montserrat', sans-serif;
+}
+.um
+{
+    color: white;
+    text-align: center;
+}
+
+.code
+{
+    height: 300px;
+    width: 275px;
+    float: left;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.language
+{
+    height: 300px;
+    width: 275px;
+    float: left;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+#um
+{
+    clear: both;
+    width: 550px;
+    height: 300px;
+    margin-left: 15px;
+}
+.lang
+{
+    text-align: center;
+    color: aqua;
+}
+.udemy
+{
+    color: lightskyblue;
+}
+.udemy:hover
+{
+    color: rgb(81, 180, 242);
+}
+#kontakt
+{
+    margin-left: 100px;
+}
